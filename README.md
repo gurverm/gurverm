@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **meaningful projects**
 
-- 👨‍💻 All of my projects are available at [https://gurverm.github.io/react-portfolio/](https://gurverm.github.io/react-portfolio/)
-
 - 💬 Ask me about **react, node, and javascript**
 
 - 📫 How to reach me **maduraigurveer@gmail.com**
