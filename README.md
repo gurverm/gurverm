@@ -3,13 +3,10 @@
 
 - 🌱 I’m currently learning **machine learning fundamentals**
 
-- 👯 I’m looking to collaborate on **meaningful projects**
-
 - 💬 Ask me about **react, node, and javascript**
 
 - 📫 How to reach me **maduraigurveer@gmail.com**
 
-- ⚡ Fun fact **I'm a self proclaimed mountain man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
